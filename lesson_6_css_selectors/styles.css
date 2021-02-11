@@ -78,6 +78,7 @@ a:hover {
 }
 a:active {
     color: red;
+    text-decoration: none;
 }
 
 a:visited:hover {
